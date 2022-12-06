@@ -1,5 +1,5 @@
-# aoc2021
+# aoc2022
 
-My code for the Advent of Code 2021
+My code for the Advent of Code 2022
 
-https://adventofcode.com/2021/about
+https://adventofcode.com/2022/about
